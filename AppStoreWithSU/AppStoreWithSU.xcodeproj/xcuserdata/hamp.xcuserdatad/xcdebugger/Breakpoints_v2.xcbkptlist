@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4653947B-F860-4C6C-8D9E-A34191E92409"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "679DBDFA-EDD4-4842-9D58-4676E06D6954"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStoreWithSU/Feature/RootFuture/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B81EFFB-369E-4FC5-8CEE-D7DF812CEADC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "bindAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B81EFFB-369E-4FC5-8CEE-D7DF812CEADC - bb6d4af65f017142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "4B81EFFB-369E-4FC5-8CEE-D7DF812CEADC - bb6d4af65f017142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "4B81EFFB-369E-4FC5-8CEE-D7DF812CEADC - bb6d4af65f017123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "4B81EFFB-369E-4FC5-8CEE-D7DF812CEADC - bb6d4af65f017123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C5C8299-6C53-46A7-9582-41AC21859760"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "bindAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C5C8299-6C53-46A7-9582-41AC21859760 - bb6d4af65f0170a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "0C5C8299-6C53-46A7-9582-41AC21859760 - bb6d4af65f017100"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppStoreWithSU.RootViewModel, Swift.Optional&lt;AppStoreWithSU.RootViewAction&gt;) -&gt; () in AppStoreWithSU.RootViewModel.bindAction() -&gt; ()"
+                  moduleName = "AppStoreWithSU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamp/Desktop/AppStoreWithSU/AppStoreWithSU/Feature/RootFuture/ViewModel/RootViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
